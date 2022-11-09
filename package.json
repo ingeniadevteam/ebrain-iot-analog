@@ -1,0 +1,19 @@
+{
+  "name": "@clysema/ebrain-iot-analog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bufferpack": "0.0.6",
+    "joi": "^17.4.2",
+    "load-json-file": "^6.2.0",
+    "round-to": "^5.0.0",
+    "spi-device": "^3.1.2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
